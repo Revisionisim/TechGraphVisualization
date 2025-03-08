@@ -1,0 +1,299 @@
+{
+    "nodes": [
+        {
+            "id": "正极材料",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "三元材料正极",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "锂矿",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "镍矿",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "钴矿",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "锰矿",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "负极材料",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "石墨",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电解液",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "六氟磷酸锂",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "隔膜",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "聚乙烯",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "聚丙烯",
+            "category": "产业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电池",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "动力锂电池",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "锂电设备",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "PACK",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电芯",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电驱",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "永磁材料",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "硅钢片",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电控",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "IGBT芯片",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "PCB板",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车身附件",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车窗玻璃",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "方向盘",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "座椅",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "后视镜",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "仪表盘",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车灯",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "底盘",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "减震器",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车轮",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "刹车片",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "转动轴",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车桥",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "轮胎",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "汽车电子",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电子控制系统",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车载电子装置",
+            "category": "产业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "乘用车",
+            "category": "产业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "轿车",
+            "category": "产业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "SUV",
+            "category": "产业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "商用车",
+            "category": "产业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "客车",
+            "category": "产业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "货车",
+            "category": "产业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "充电服务",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "充电设施",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "换电设备",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "电池回收",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "后市场服务",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "汽车金融",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "汽车保险",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "汽车租赁",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "二手汽车",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "汽车拆解回收",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "汽车维护与修养",
+            "category": "产业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "汽车用品",
+            "category": "产业",
+            "belongsto": "市场服务"
+        }
+    ]
+}

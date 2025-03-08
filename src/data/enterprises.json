@@ -1,0 +1,1042 @@
+{
+    "nodes": [
+        {
+            "id": "恩捷股份",
+            "category": "企业",
+            "belongsto": "原材料",
+            "description": "国内最大的动力锂电池隔膜生产企业，在国内湿法隔膜领域市占率为44%，全球市占率为15%。也是全球出货量最大的锂电池隔膜供应商，已经进入松下、三星、LG化学、宁德时代、比亚迪等国内锂电巨头供应链，产能达到23亿平方米，产能规模位居全球第一。"
+        },
+        {
+            "id": "星源材质",
+            "category": "企业",
+            "belongsto": "原材料",
+            "description": "国内干法隔膜龙头，目前在从干法转型湿法，国内市占率约为20%，更具有增长弹性。"
+        },
+        {
+            "id": "中材科技",
+            "category": "企业",
+            "belongsto": "原材料",
+            "description": "具备 5-20μm 湿法隔膜及各类涂覆隔膜产品产能，目前营收占比3.08%。"
+        },
+        {
+            "id": "当升科技",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "荣百科技",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "厦门钨业",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "赣锋锂业",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "雅化集团",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "盛新锂能",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "先导智能",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "杭可科技",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "赢合科技",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "先惠技术",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "国轩高科",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "蔚蓝锂芯",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "孚能科技",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "鹏辉能源",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "欣旺达",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "富临精工",
+            "belongsto": "组件",
+            "category": "企业"
+        },
+        {
+            "id": "拓邦股份",
+            "belongsto": "组件",
+            "category": "企业"
+        },
+        {
+            "id": "特斯拉（Tesla）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "华为（Huawei）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "NIO（蔚来汽车）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "蔚景汽车（WM Motor）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "小鹏汽车（XPeng）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "理想汽车（Li Auto）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "长江汽车（CHJ Automotive）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "广汽新能源",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "宁德时代（CATL）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "比亚迪（BYD）",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "江淮汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "吉利汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "北汽新能源",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "华晨宝马",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "一汽-大众",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "东风汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "奇瑞汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "上汽集团",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "福田汽车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "广汇汽车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "江淮汽车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "广汽集团",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "神州租车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "强生控股",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "大众交通",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "申华控股",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "浩物股份",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "大东方",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "开心汽车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "德联集团",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "明新旭腾",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "旷达科技",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "苏奥传感",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "常熟汽饰",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "元征科技",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "道通科技",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "南华仪器",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "日立化成",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "美迪西",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "东陽光科",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "南京磁谷",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "扬子新材",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "慧谷电气",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "世运电路",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "长园集团",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "力神电池",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "万霆科技",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "金智科技",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "国轩高科",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "三维丝",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "华星创业",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "申科股份",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "上汽集团",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "长安汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "人人车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "瓜子二手车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "优信二手车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "太平洋二手车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "58同城二手车",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中商车服",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中兴源伟",
+            "category": "企业",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "中源伟业",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "兴源环境",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中兴回收",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国人保财险股份有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国平安财产保险股份有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国太平保险集团有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国太平洋产险股份有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国人民财产保险股份有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国大地保险股份有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国华泰保险集团有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "中国华安财产保险股份有限公司",
+            "category": "企业",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "博世汽车部件（中国）有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "日本电产株式会社",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "广东德尔福汽车电子有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海中航信息科技股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "大连正大汽车后视镜有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海旭辉汽车镜片有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "珠海航都电子股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "江苏德尔福电子控制技术有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "英飞凌科技（上海）有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "无锡赛普拉斯科技有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海慕禾电子科技有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "深圳市威利盈科技有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "江苏博世汽车电子有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "深圳市翰德科技股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "深圳长城宽谱科技有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "广州威尔斯电子科技有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "山东蓝光科技股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "山东新德克科技股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "广东凯帝汽车刹车片有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "宁波骏丰金属有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "北京盛世荣丰汽车零部件有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "博世汽车制动系统（中国）有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海兴华减震器股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "浙江富春江刹车制品有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "重庆底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海帝泽底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "东风底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "宁波金华底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海汽车底盘有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "北京现代底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "广州市富士达底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "南京依维柯底盘系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "广州轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "海龙岗轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "长春轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "北京华众轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "曹妃甸轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "山东路猛轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "南京轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "大连轮胎有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "湖南焦点轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "广州立达轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "重庆轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "青岛轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海汇鑫轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "津开发区长基轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "沈阳轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "浙江精密轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "天津开发区长基轴承有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "宁波赛普汽车零部件股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "中山市隆鑫汽车配件有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "上海莱士汽车科技股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "安徽鼎信汽车零部件股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "四川川达华汽车灯饰股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "深圳市珠海高科激光股份有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "法雷奥",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "海曼科技",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "柯蒂斯",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "保斐利",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "奥迪汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "大陆汽车系统有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "福特汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "通用汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "奔驰汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "宝马汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "一汽大众",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "吉利汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "宁德时代",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "比亚迪",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "松下",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "三星SDI",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "LG化学",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "爱尔克",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "英飞特",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "亿纬锂能",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "天津力神",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "江苏赛维",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "三一重工",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "众泰汽车",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "长园集团",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "美锦能源",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "恒立液压",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "中车株机",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "锦浪科技",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "安捷伦",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "欧司朗",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "华为技术有限公司",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "中兴通讯",
+            "category": "企业",
+            "belongsto": "组件"
+        },
+        {
+            "id": "蔚来汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "小鹏汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "威马汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "特斯拉",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "上汽大众",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "长江汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "华为",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "腾势汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "比速汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "长城汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "理想汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "蔚来杠上花",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "沃尔沃",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "零跑汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "几何汽车",
+            "belongsto": "整车",
+            "category": "企业"
+        },
+        {
+            "id": "上汽通用五菱",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "江淮汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "中通客车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "宇通客车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "福田汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "重庆力帆",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "北汽福田",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "江铃汽车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "陕汽集团",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "东风商用车",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "广汽三菱",
+            "category": "企业",
+            "belongsto": "整车"
+        },
+        {
+            "id": "一汽解放",
+            "category": "企业",
+            "belongsto": "整车"
+        }
+    ]
+}

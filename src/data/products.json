@@ -1,0 +1,404 @@
+{
+    "nodes": [
+        {
+            "id": "氢氧化锂",
+            "category": "产品",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "碳酸锂",
+            "category": "产品",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "Model S Plaid",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Model X Long Range",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Model 3 Standard Range Plus",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Model Y Performance",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Cybertruck Dual Motor",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Roadster",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "HI平台",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "5G-V2X通信模块",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "无线电波雷达",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "MDC 600高清数字化摄像头",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "ES6 Sport",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "ES8 Premier",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EC6 Performance",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "ET7 Performance",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "秦Pro EV超长续航",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "唐DM-i四驱豪华",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "汉EV全能旗舰",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "元EV535",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "宋Pro EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "T3微型货车",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EX5 Plus",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EX6 Plus",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "W6",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "E5",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "P7 Wing",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "G3i 460",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "P5",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "P4",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Li ONE",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Li ONE Pro",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Li ONE Elite",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Li ONE Sapphire",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Li Xiang One",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "小蚂蚁EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "星途锐程",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "星途L7",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "星途TX",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Aion Y",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Aion S",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Aion LX",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Aion V",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EV动力电池",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "ESS储能电池",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EV模块化电源系统",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Han EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Tang DM-i",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Qin Plus",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "Song Pro DM",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "iEV7S",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "iEVA50",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "iEVS4",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "iEVS4R",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "远景X3 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "星越PHEV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "帝豪EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "缤瑞EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EU5",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EU7",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EX3",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "EX5 Plus",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "iX3",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "i4",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "iNEXT",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "i7",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "威霆EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "凌渡PHEV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "探岳PHEV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "蔚揽PHEV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "欧尚A800 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "奔奔EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "逸动EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "睿骋CC EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "风行T5 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "风神AX7 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "风光580 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "风光S560 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "瑞虎7 EV",
+            "category": "产品",
+            "belongsto": "整车"
+        },
+        {
+            "id": "瑞虎5",
+            "category": "产品",
+            "belongsto": "整车"
+        }
+    ]
+}

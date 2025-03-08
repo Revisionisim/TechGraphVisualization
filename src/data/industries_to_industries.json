@@ -1,0 +1,229 @@
+{
+    "edges": [
+        {
+            "source": "正极材料",
+            "target": "电池",
+            "label": "下游产业"
+        },
+        {
+            "source": "负极材料",
+            "target": "电池",
+            "label": "下游产业"
+        },
+        {
+            "source": "电解液",
+            "target": "电池",
+            "label": "下游产业"
+        },
+        {
+            "source": "隔膜",
+            "target": "电池",
+            "label": "下游产业"
+        },
+        {
+            "source": "电池",
+            "target": "动力锂电池",
+            "label": "下位产业"
+        },
+        {
+            "source": "电池",
+            "target": "锂电设备",
+            "label": "下位产业"
+        },
+        {
+            "source": "正极材料",
+            "target": "锂矿",
+            "label": "下位产业"
+        },
+        {
+            "source": "正极材料",
+            "target": "镍矿",
+            "label": "下位产业"
+        },
+        {
+            "source": "正极材料",
+            "target": "钴矿",
+            "label": "下位产业"
+        },
+        {
+            "source": "正极材料",
+            "target": "锰矿",
+            "label": "下位产业"
+        },
+        {
+            "source": "负极材料",
+            "target": "石墨",
+            "label": "下位产业"
+        },
+        {
+            "source": "电解液",
+            "target": "六氟磷酸锂",
+            "label": "下位产业"
+        },
+        {
+            "source": "隔膜",
+            "target": "聚乙烯",
+            "label": "下位产业"
+        },
+        {
+            "source": "隔膜",
+            "target": "聚丙烯",
+            "label": "下位产业"
+        },
+        {
+            "source": "电池",
+            "target": "PACK",
+            "label": "下位产业"
+        },
+        {
+            "source": "电池",
+            "target": "电芯",
+            "label": "下位产业"
+        },
+        {
+            "source": "电驱",
+            "target": "永磁材料",
+            "label": "下位产业"
+        },
+        {
+            "source": "电驱",
+            "target": "硅钢片",
+            "label": "下位产业"
+        },
+        {
+            "source": "电控",
+            "target": "IGBT芯片",
+            "label": "下位产业"
+        },
+        {
+            "source": "电控",
+            "target": "PCB板",
+            "label": "下位产业"
+        },
+        {
+            "source": "车身附件",
+            "target": "车窗玻璃",
+            "label": "下位产业"
+        },
+        {
+            "source": "车身附件",
+            "target": "方向盘",
+            "label": "下位产业"
+        },
+        {
+            "source": "车身附件",
+            "target": "座椅",
+            "label": "下位产业"
+        },
+        {
+            "source": "车身附件",
+            "target": "后视镜",
+            "label": "下位产业"
+        },
+        {
+            "source": "车身附件",
+            "target": "仪表盘",
+            "label": "下位产业"
+        },
+        {
+            "source": "车身附件",
+            "target": "车灯",
+            "label": "下位产业"
+        },
+        {
+            "source": "底盘",
+            "target": "减震器",
+            "label": "下位产业"
+        },
+        {
+            "source": "底盘",
+            "target": "车轮",
+            "label": "下位产业"
+        },
+        {
+            "source": "底盘",
+            "target": "刹车片",
+            "label": "下位产业"
+        },
+        {
+            "source": "底盘",
+            "target": "转动轴",
+            "label": "下位产业"
+        },
+        {
+            "source": "底盘",
+            "target": "车桥",
+            "label": "下位产业"
+        },
+        {
+            "source": "汽车电子",
+            "target": "电子控制系统",
+            "label": "下位产业"
+        },
+        {
+            "source": "汽车电子",
+            "target": "车载电子装置",
+            "label": "下位产业"
+        },
+        {
+            "source": "乘用车",
+            "target": "轿车",
+            "label": "下位产业"
+        },
+        {
+            "source": "乘用车",
+            "target": "SUV",
+            "label": "下位产业"
+        },
+        {
+            "source": "商用车",
+            "target": "客车",
+            "label": "下位产业"
+        },
+        {
+            "source": "商用车",
+            "target": "货车",
+            "label": "下位产业"
+        },
+        {
+            "source": "充电服务",
+            "target": "充电设施",
+            "label": "下位产业"
+        },
+        {
+            "source": "充电服务",
+            "target": "换电设备",
+            "label": "下位产业"
+        },
+        {
+            "source": "充电服务",
+            "target": "电池回收",
+            "label": "下位产业"
+        },
+        {
+            "source": "后市场服务",
+            "target": "汽车金融",
+            "label": "下位产业"
+        },
+        {
+            "source": "后市场服务",
+            "target": "汽车保险",
+            "label": "下位产业"
+        },
+        {
+            "source": "后市场服务",
+            "target": "汽车租赁",
+            "label": "下位产业"
+        },
+        {
+            "source": "后市场服务",
+            "target": "二手汽车",
+            "label": "下位产业"
+        },
+        {
+            "source": "后市场服务",
+            "target": "汽车拆解回收",
+            "label": "下位产业"
+        }
+    ]
+}

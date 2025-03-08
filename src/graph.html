@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>课程知识图谱</title>
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+  
+    <div id="container"></div>
+    <div class="search-wrapper">
+      <input id="search-input" type="text" placeholder="输入节点名称或类型" />
+      <button id="search-button"><i class="fas fa-search"></i></button>
+      <ul class="candidate-list">
+        <li class="candidate-item"></li>
+      </ul>
+    </div>
+
+</body>
+<script src="https://gw.alipayobjects.com/os/lib/antv/g6/4.8.8/dist/g6.min.js"></script>
+<script src="./randomdata.js"></script>
+<script type="module" src="./cluster.js"></script>
+</html>

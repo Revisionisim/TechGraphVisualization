@@ -1,0 +1,1119 @@
+{
+    "edges": [
+        {
+            "source": "锂矿",
+            "target": "赣锋锂业",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂矿",
+            "target": "雅化集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂矿",
+            "target": "盛新锂能",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "上汽集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "长安汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "吉利汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "比亚迪",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "广汽集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "人人车",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "瓜子二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "优信二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "太平洋二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "58同城二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车拆解回收",
+            "target": "中商车服",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车拆解回收",
+            "target": "中兴源伟",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车拆解回收",
+            "target": "中源伟业",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车拆解回收",
+            "target": "兴源环境",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车拆解回收",
+            "target": "中兴回收",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国人民财产保险股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国大地保险股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国华泰保险集团有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国华安财产保险股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国人保财险股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国平安财产保险股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国太平保险集团有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车保险",
+            "target": "中国太平洋产险股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "大连正大汽车后视镜有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "上海旭辉汽车镜片有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "珠海航都电子股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "江苏德尔福电子控制技术有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "博世汽车部件（中国）有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "日本电产株式会社",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "广东德尔福汽车电子有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "后视镜",
+            "target": "上海中航信息科技股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "江苏博世汽车电子有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "深圳市翰德科技股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "深圳长城宽谱科技有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "广州威尔斯电子科技有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "英飞凌科技（上海）有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "无锡赛普拉斯科技有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "上海慕禾电子科技有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "仪表盘",
+            "target": "深圳市威利盈科技有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "宁波骏丰金属有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "广东凯帝汽车刹车片有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "山东新德克科技股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "山东蓝光科技股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "浙江富春江刹车制品有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "上海兴华减震器股份有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "博世汽车制动系统（中国）有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "刹车片",
+            "target": "北京盛世荣丰汽车零部件有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "上海汽车底盘有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "北京现代底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "广州市富士达底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "南京依维柯底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "重庆底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "上海帝泽底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "东风底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "底盘",
+            "target": "宁波金华底盘系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "上海汇鑫轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "天津开发区长基轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "沈阳轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "浙江精密轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "湖南焦点轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "广州立达轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "重庆轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "转动轴",
+            "target": "青岛轴承有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "海曼科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "柯蒂斯",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "保斐利",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "奥迪汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "大陆汽车系统有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "福特汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "通用汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "奔驰汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "宝马汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "一汽大众",
+            "label": "主要企业"
+        },
+        {
+            "source": "车灯",
+            "target": "吉利汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "特斯拉（Tesla）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "NIO（蔚来汽车）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "蔚景汽车（WM Motor）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "小鹏汽车（XPeng）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "理想汽车（Li Auto）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "长江汽车（CHJ Automotive）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "广汽新能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "江淮汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "吉利汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "北汽新能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "华晨宝马",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "一汽-大众",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "长安汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "奇瑞汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "宝马汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "华为（Huawei）",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "比亚迪（BYD）",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "福特汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "车窗玻璃",
+            "target": "亿纬锂能",
+            "label": "主要企业"
+        },
+        {
+            "source": "车窗玻璃",
+            "target": "国轩高科",
+            "label": "主要企业"
+        },
+        {
+            "source": "车窗玻璃",
+            "target": "蔚蓝锂芯",
+            "label": "主要企业"
+        },
+        {
+            "source": "方向盘",
+            "target": "孚能科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "方向盘",
+            "target": "鹏辉能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "座椅",
+            "target": "欣旺达",
+            "label": "主要企业"
+        },
+        {
+            "source": "减震器",
+            "target": "富临精工",
+            "label": "主要企业"
+        },
+        {
+            "source": "减震器",
+            "target": "拓邦股份",
+            "label": "主要企业"
+        },
+        {
+            "source": "车桥",
+            "target": "富临精工",
+            "label": "主要企业"
+        },
+        {
+            "source": "车桥",
+            "target": "拓邦股份",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "宁德时代",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "比亚迪",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "松下",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "三星SDI",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "LG化学",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "爱尔克",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "英飞特",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "亿纬锂能",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "天津力神",
+            "label": "主要企业"
+        },
+        {
+            "source": "动力锂电池",
+            "target": "江苏赛维",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "比亚迪",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "三一重工",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "众泰汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "长园集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "美锦能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "恒立液压",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "中车株机",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂电设备",
+            "target": "锦浪科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "广州轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "海龙岗轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "长春轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "北京华众轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "曹妃甸轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "山东路猛轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "南京轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "轮胎",
+            "target": "大连轮胎有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "PCB板",
+            "target": "杭可科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "IGBT芯片",
+            "target": "先导智能",
+            "label": "主要企业"
+        },
+        {
+            "source": "PCB板",
+            "target": "安捷伦",
+            "label": "主要企业"
+        },
+        {
+            "source": "PCB板",
+            "target": "欧司朗",
+            "label": "主要企业"
+        },
+        {
+            "source": "IGBT芯片",
+            "target": "华为技术有限公司",
+            "label": "主要企业"
+        },
+        {
+            "source": "IGBT芯片",
+            "target": "中兴通讯",
+            "label": "主要企业"
+        },
+        {
+            "source": "电池回收",
+            "target": "强生控股",
+            "label": "主要企业"
+        },
+        {
+            "source": "电池回收",
+            "target": "申华控股",
+            "label": "主要企业"
+        },
+        {
+            "source": "充电设施",
+            "target": "大众交通",
+            "label": "主要企业"
+        },
+        {
+            "source": "充电设施",
+            "target": "浩物股份",
+            "label": "主要企业"
+        },
+        {
+            "source": "充电设施",
+            "target": "优信二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "换电设备",
+            "target": "大众交通",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车用品",
+            "target": "福特汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车用品",
+            "target": "旷达科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车用品",
+            "target": "常熟汽饰",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车用品",
+            "target": "苏奥传感",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车用品",
+            "target": "明新旭腾",
+            "label": "主要企业"
+        },
+        {
+            "source": "换电设备",
+            "target": "大东方",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车租赁",
+            "target": "大东方",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车租赁",
+            "target": "优信二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车金融",
+            "target": "申华控股",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车金融",
+            "target": "浩物股份",
+            "label": "主要企业"
+        },
+        {
+            "source": "电池回收",
+            "target": "强生控股",
+            "label": "主要企业"
+        },
+        {
+            "source": "电池回收",
+            "target": "申华控股",
+            "label": "主要企业"
+        },
+        {
+            "source": "充电设施",
+            "target": "浩物股份",
+            "label": "主要企业"
+        },
+        {
+            "source": "换电设备",
+            "target": "大东方",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车租赁",
+            "target": "优信二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车金融",
+            "target": "优信二手车",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "广汇汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "二手汽车",
+            "target": "开心汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车维护与修养",
+            "target": "神州租车",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车维护与修养",
+            "target": "南华仪器",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车维护与修养",
+            "target": "道通科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车维护与修养",
+            "target": "元征科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "汽车维护与修养",
+            "target": "德联集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂矿",
+            "target": "国轩高科",
+            "label": "主要企业"
+        },
+        {
+            "source": "锂矿",
+            "target": "万霆科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "钴矿",
+            "target": "金智科技",
+            "label": "主要企业"
+        },
+        {
+            "source": "锰矿",
+            "target": "力神电池",
+            "label": "主要企业"
+        },
+        {
+            "source": "锰矿",
+            "target": "东陽光科",
+            "label": "主要企业"
+        },
+        {
+            "source": "镍矿",
+            "target": "国轩高科",
+            "label": "主要企业"
+        },
+        {
+            "source": "聚乙烯",
+            "target": "长园集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "聚丙烯",
+            "target": "扬子新材",
+            "label": "主要企业"
+        },
+        {
+            "source": "电解液",
+            "target": "美迪西",
+            "label": "主要企业"
+        },
+        {
+            "source": "电解液",
+            "target": "华星创业",
+            "label": "主要企业"
+        },
+        {
+            "source": "石墨",
+            "target": "申科股份",
+            "label": "主要企业"
+        },
+        {
+            "source": "石墨",
+            "target": "三维丝",
+            "label": "主要企业"
+        },
+        {
+            "source": "石墨",
+            "target": "慧谷电气",
+            "label": "主要企业"
+        },
+        {
+            "source": "石墨",
+            "target": "世运电路",
+            "label": "主要企业"
+        },
+        {
+            "source": "石墨",
+            "target": "华星创业",
+            "label": "主要企业"
+        },
+        {
+            "source": "石墨",
+            "target": "长园集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "北汽新能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "上汽通用五菱",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "江淮汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "中通客车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "宇通客车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "福田汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "东风汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "江淮汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "重庆力帆",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "北汽福田",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "江铃汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "陕汽集团",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "东风商用车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "广汽三菱",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "上汽通用五菱",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "一汽解放",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "中通客车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "福田汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "广汽新能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "长城汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "北汽新能源",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "比速汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "威马汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "小鹏汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "蔚来汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "上汽大众",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "奇瑞汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "理想汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "沃尔沃",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "江淮汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "货车",
+            "target": "长江汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "华为",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "腾势汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "零跑汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "几何汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "蔚来杠上花",
+            "label": "主要企业"
+        },
+        {
+            "source": "客车",
+            "target": "威马汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "比亚迪",
+            "label": "主要企业"
+        },
+        {
+            "source": "轿车",
+            "target": "吉利汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "江淮汽车",
+            "label": "主要企业"
+        },
+        {
+            "source": "SUV",
+            "target": "上汽集团",
+            "label": "主要企业"
+        }
+    ]
+}

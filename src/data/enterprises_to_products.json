@@ -1,0 +1,419 @@
+{
+    "edges": [
+        {
+            "source": "赣锋锂业",
+            "target": "氢氧化锂",
+            "label": "主营产品"
+        },
+        {
+            "source": "赣锋锂业",
+            "target": "碳酸锂",
+            "label": "主营产品"
+        },
+        {
+            "source": "雅化集团",
+            "target": "氢氧化锂",
+            "label": "主营产品"
+        },
+        {
+            "source": "盛新锂能",
+            "target": "氢氧化锂",
+            "label": "主营产品"
+        },
+        {
+            "source": "盛新锂能",
+            "target": "碳酸锂",
+            "label": "主营产品"
+        },
+        {
+            "source": "特斯拉（Tesla）",
+            "target": "Model S Plaid",
+            "label": "主要产品"
+        },
+        {
+            "source": "特斯拉（Tesla）",
+            "target": "Model X Long Range",
+            "label": "主要产品"
+        },
+        {
+            "source": "特斯拉（Tesla）",
+            "target": "Model 3 Standard Range Plus",
+            "label": "主要产品"
+        },
+        {
+            "source": "特斯拉（Tesla）",
+            "target": "Model Y Performance",
+            "label": "主要产品"
+        },
+        {
+            "source": "特斯拉（Tesla）",
+            "target": "Cybertruck Dual Motor",
+            "label": "主要产品"
+        },
+        {
+            "source": "特斯拉（Tesla）",
+            "target": "Roadster",
+            "label": "主要产品"
+        },
+        {
+            "source": "华为（Huawei）",
+            "target": "HI平台",
+            "label": "主要产品"
+        },
+        {
+            "source": "华为（Huawei）",
+            "target": "5G-V2X通信模块",
+            "label": "主要产品"
+        },
+        {
+            "source": "华为（Huawei）",
+            "target": "无线电波雷达",
+            "label": "主要产品"
+        },
+        {
+            "source": "华为（Huawei）",
+            "target": "MDC 600高清数字化摄像头",
+            "label": "主要产品"
+        },
+        {
+            "source": "NIO（蔚来汽车）",
+            "target": "ES6 Sport",
+            "label": "主要产品"
+        },
+        {
+            "source": "NIO（蔚来汽车）",
+            "target": "ES8 Premier",
+            "label": "主要产品"
+        },
+        {
+            "source": "NIO（蔚来汽车）",
+            "target": "EC6 Performance",
+            "label": "主要产品"
+        },
+        {
+            "source": "NIO（蔚来汽车）",
+            "target": "ET7 Performance",
+            "label": "主要产品"
+        },
+        {
+            "source": "BYD（比亚迪）",
+            "target": "秦Pro EV超长续航",
+            "label": "主要产品"
+        },
+        {
+            "source": "BYD（比亚迪）",
+            "target": "唐DM-i四驱豪华",
+            "label": "主要产品"
+        },
+        {
+            "source": "BYD（比亚迪）",
+            "target": "汉EV全能旗舰",
+            "label": "主要产品"
+        },
+        {
+            "source": "BYD（比亚迪）",
+            "target": "元EV535",
+            "label": "主要产品"
+        },
+        {
+            "source": "BYD（比亚迪）",
+            "target": "宋Pro EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "BYD（比亚迪）",
+            "target": "T3微型货车",
+            "label": "主要产品"
+        },
+        {
+            "source": "蔚景汽车（WM Motor）",
+            "target": "EX5 Plus",
+            "label": "主要产品"
+        },
+        {
+            "source": "蔚景汽车（WM Motor）",
+            "target": "EX6 Plus",
+            "label": "主要产品"
+        },
+        {
+            "source": "蔚景汽车（WM Motor）",
+            "target": "W6",
+            "label": "主要产品"
+        },
+        {
+            "source": "蔚景汽车（WM Motor）",
+            "target": "E5",
+            "label": "主要产品"
+        },
+        {
+            "source": "小鹏汽车（XPeng）",
+            "target": "P7 Wing",
+            "label": "主要产品"
+        },
+        {
+            "source": "小鹏汽车（XPeng）",
+            "target": "G3i 460",
+            "label": "主要产品"
+        },
+        {
+            "source": "小鹏汽车（XPeng）",
+            "target": "P5",
+            "label": "主要产品"
+        },
+        {
+            "source": "小鹏汽车（XPeng）",
+            "target": "P4",
+            "label": "主要产品"
+        },
+        {
+            "source": "理想汽车（Li Auto）",
+            "target": "Li ONE",
+            "label": "主要产品"
+        },
+        {
+            "source": "理想汽车（Li Auto）",
+            "target": "Li ONE Pro",
+            "label": "主要产品"
+        },
+        {
+            "source": "理想汽车（Li Auto）",
+            "target": "Li ONE Elite",
+            "label": "主要产品"
+        },
+        {
+            "source": "理想汽车（Li Auto）",
+            "target": "Li ONE Sapphire",
+            "label": "主要产品"
+        },
+        {
+            "source": "理想汽车（Li Auto）",
+            "target": "Li Xiang One",
+            "label": "主要产品"
+        },
+        {
+            "source": "长江汽车（CHJ Automotive）",
+            "target": "小蚂蚁EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "长江汽车（CHJ Automotive）",
+            "target": "星途锐程",
+            "label": "主要产品"
+        },
+        {
+            "source": "长江汽车（CHJ Automotive）",
+            "target": "星途L7",
+            "label": "主要产品"
+        },
+        {
+            "source": "长江汽车（CHJ Automotive）",
+            "target": "星途TX",
+            "label": "主要产品"
+        },
+        {
+            "source": "广汽新能源",
+            "target": "Aion Y",
+            "label": "主要产品"
+        },
+        {
+            "source": "广汽新能源",
+            "target": "Aion S",
+            "label": "主要产品"
+        },
+        {
+            "source": "广汽新能源",
+            "target": "Aion LX",
+            "label": "主要产品"
+        },
+        {
+            "source": "广汽新能源",
+            "target": "Aion V",
+            "label": "主要产品"
+        },
+        {
+            "source": "宁德时代（CATL）",
+            "target": "EV动力电池",
+            "label": "主要产品"
+        },
+        {
+            "source": "宁德时代（CATL）",
+            "target": "ESS储能电池",
+            "label": "主要产品"
+        },
+        {
+            "source": "宁德时代（CATL）",
+            "target": "EV模块化电源系统",
+            "label": "主要产品"
+        },
+        {
+            "source": "比亚迪（BYD）",
+            "target": "Han EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "比亚迪（BYD）",
+            "target": "Tang DM-i",
+            "label": "主要产品"
+        },
+        {
+            "source": "比亚迪（BYD）",
+            "target": "Qin Plus",
+            "label": "主要产品"
+        },
+        {
+            "source": "比亚迪（BYD）",
+            "target": "Song Pro DM",
+            "label": "主要产品"
+        },
+        {
+            "source": "江淮汽车",
+            "target": "iEV7S",
+            "label": "主要产品"
+        },
+        {
+            "source": "江淮汽车",
+            "target": "iEVA50",
+            "label": "主要产品"
+        },
+        {
+            "source": "江淮汽车",
+            "target": "iEVS4",
+            "label": "主要产品"
+        },
+        {
+            "source": "江淮汽车",
+            "target": "iEVS4R",
+            "label": "主要产品"
+        },
+        {
+            "source": "吉利汽车",
+            "target": "远景X3 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "吉利汽车",
+            "target": "星越PHEV",
+            "label": "主要产品"
+        },
+        {
+            "source": "吉利汽车",
+            "target": "帝豪EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "吉利汽车",
+            "target": "缤瑞EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "北汽新能源",
+            "target": "EU5",
+            "label": "主要产品"
+        },
+        {
+            "source": "北汽新能源",
+            "target": "EU7",
+            "label": "主要产品"
+        },
+        {
+            "source": "北汽新能源",
+            "target": "EX3",
+            "label": "主要产品"
+        },
+        {
+            "source": "北汽新能源",
+            "target": "EX5 Plus",
+            "label": "主要产品"
+        },
+        {
+            "source": "华晨宝马",
+            "target": "iX3",
+            "label": "主要产品"
+        },
+        {
+            "source": "华晨宝马",
+            "target": "i4",
+            "label": "主要产品"
+        },
+        {
+            "source": "华晨宝马",
+            "target": "iNEXT",
+            "label": "主要产品"
+        },
+        {
+            "source": "华晨宝马",
+            "target": "i7",
+            "label": "主要产品"
+        },
+        {
+            "source": "一汽-大众",
+            "target": "威霆EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "一汽-大众",
+            "target": "凌渡PHEV",
+            "label": "主要产品"
+        },
+        {
+            "source": "一汽-大众",
+            "target": "探岳PHEV",
+            "label": "主要产品"
+        },
+        {
+            "source": "一汽-大众",
+            "target": "蔚揽PHEV",
+            "label": "主要产品"
+        },
+        {
+            "source": "长安汽车",
+            "target": "欧尚A800 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "长安汽车",
+            "target": "奔奔EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "长安汽车",
+            "target": "逸动EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "长安汽车",
+            "target": "睿骋CC EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "东风汽车",
+            "target": "风行T5 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "东风汽车",
+            "target": "风神AX7 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "东风汽车",
+            "target": "风光580 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "东风汽车",
+            "target": "风光S560 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "奇瑞汽车",
+            "target": "瑞虎7 EV",
+            "label": "主要产品"
+        },
+        {
+            "source": "奇瑞汽车",
+            "target": "瑞虎5",
+            "label": "主要产品"
+        }
+    ]
+}

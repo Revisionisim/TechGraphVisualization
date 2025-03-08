@@ -1,0 +1,1244 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "comboId": "component",
+            "label": "氢燃料电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "2",
+            "comboId": "service",
+            "label": "纯电动动力汽车",
+            "type": "技术"
+        },
+        {
+            "id": "3",
+            "comboId": "product",
+            "label": "氢燃料智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "4",
+            "comboId": "metarial",
+            "label": "氢燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "5",
+            "comboId": "component",
+            "label": "混合燃料车联网电机",
+            "type": "技术"
+        },
+        {
+            "id": "6",
+            "comboId": "service",
+            "label": "纯电动电驱动电控",
+            "type": "技术"
+        },
+        {
+            "id": "7",
+            "comboId": "product",
+            "label": "纯电动车联网电控",
+            "type": "技术"
+        },
+        {
+            "id": "8",
+            "comboId": "metarial",
+            "label": "混合燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "9",
+            "comboId": "component",
+            "label": "氢燃料充电设施汽车",
+            "type": "技术"
+        },
+        {
+            "id": "10",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "11",
+            "comboId": "product",
+            "label": "混合燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "12",
+            "comboId": "metarial",
+            "label": "混合燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "13",
+            "comboId": "component",
+            "label": "纯电动车联网电控",
+            "type": "技术"
+        },
+        {
+            "id": "14",
+            "comboId": "service",
+            "label": "混合燃料动力电池",
+            "type": "技术"
+        },
+        {
+            "id": "15",
+            "comboId": "product",
+            "label": "纯电动无人驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "16",
+            "comboId": "metarial",
+            "label": "氢燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "17",
+            "comboId": "component",
+            "label": "混合燃料车联网电机",
+            "type": "技术"
+        },
+        {
+            "id": "18",
+            "comboId": "service",
+            "label": "混合燃料充电设施发动机",
+            "type": "技术"
+        },
+        {
+            "id": "19",
+            "comboId": "product",
+            "label": "纯电动车联网电控",
+            "type": "技术"
+        },
+        {
+            "id": "20",
+            "comboId": "metarial",
+            "label": "混合燃料轻量化材料电池",
+            "type": "技术"
+        },
+        {
+            "id": "21",
+            "comboId": "component",
+            "label": "混合燃料充电设施电池",
+            "type": "技术"
+        },
+        {
+            "id": "22",
+            "comboId": "service",
+            "label": "氢燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "23",
+            "comboId": "product",
+            "label": "纯电动充电设施电机",
+            "type": "技术"
+        },
+        {
+            "id": "24",
+            "comboId": "metarial",
+            "label": "纯电动无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "25",
+            "comboId": "component",
+            "label": "纯电动电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "26",
+            "comboId": "service",
+            "label": "混合燃料车联网发动机",
+            "type": "技术"
+        },
+        {
+            "id": "27",
+            "comboId": "product",
+            "label": "氢燃料车联网发动机",
+            "type": "技术"
+        },
+        {
+            "id": "28",
+            "comboId": "metarial",
+            "label": "纯电动充电设施发动机",
+            "type": "技术"
+        },
+        {
+            "id": "29",
+            "comboId": "component",
+            "label": "混合燃料电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "30",
+            "comboId": "service",
+            "label": "混合燃料动力汽车",
+            "type": "技术"
+        },
+        {
+            "id": "31",
+            "comboId": "product",
+            "label": "氢燃料动力电控",
+            "type": "技术"
+        },
+        {
+            "id": "32",
+            "comboId": "metarial",
+            "label": "纯电动轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "33",
+            "comboId": "component",
+            "label": "混合燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "34",
+            "comboId": "service",
+            "label": "氢燃料轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "35",
+            "comboId": "product",
+            "label": "混合燃料轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "36",
+            "comboId": "metarial",
+            "label": "混合燃料动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "37",
+            "comboId": "component",
+            "label": "混合燃料电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "38",
+            "comboId": "service",
+            "label": "氢燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "39",
+            "comboId": "product",
+            "label": "纯电动智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "40",
+            "comboId": "metarial",
+            "label": "混合燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "41",
+            "comboId": "component",
+            "label": "混合燃料车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "42",
+            "comboId": "service",
+            "label": "混合燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "43",
+            "comboId": "product",
+            "label": "纯电动轻量化材料汽车",
+            "type": "技术"
+        },
+        {
+            "id": "44",
+            "comboId": "metarial",
+            "label": "氢燃料动力电池",
+            "type": "技术"
+        },
+        {
+            "id": "45",
+            "comboId": "component",
+            "label": "纯电动轻量化材料发动机",
+            "type": "技术"
+        },
+        {
+            "id": "46",
+            "comboId": "service",
+            "label": "氢燃料电驱动电机",
+            "type": "技术"
+        },
+        {
+            "id": "47",
+            "comboId": "product",
+            "label": "混合燃料车联网电机",
+            "type": "技术"
+        },
+        {
+            "id": "48",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "49",
+            "comboId": "component",
+            "label": "氢燃料轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "50",
+            "comboId": "service",
+            "label": "混合燃料动力发动机",
+            "type": "技术"
+        },
+        {
+            "id": "51",
+            "comboId": "product",
+            "label": "混合燃料轻量化材料汽车",
+            "type": "技术"
+        },
+        {
+            "id": "52",
+            "comboId": "metarial",
+            "label": "混合燃料智能驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "53",
+            "comboId": "component",
+            "label": "氢燃料智能驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "54",
+            "comboId": "service",
+            "label": "纯电动充电设施汽车",
+            "type": "技术"
+        },
+        {
+            "id": "55",
+            "comboId": "product",
+            "label": "氢燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "56",
+            "comboId": "metarial",
+            "label": "氢燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "57",
+            "comboId": "component",
+            "label": "纯电动智能驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "58",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "59",
+            "comboId": "product",
+            "label": "混合燃料无人驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "60",
+            "comboId": "metarial",
+            "label": "混合燃料车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "61",
+            "comboId": "component",
+            "label": "氢燃料无人驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "62",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "63",
+            "comboId": "product",
+            "label": "氢燃料无人驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "64",
+            "comboId": "metarial",
+            "label": "纯电动智能驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "65",
+            "comboId": "component",
+            "label": "纯电动动力电池",
+            "type": "技术"
+        },
+        {
+            "id": "66",
+            "comboId": "service",
+            "label": "纯电动动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "67",
+            "comboId": "product",
+            "label": "纯电动电驱动汽车",
+            "type": "技术"
+        },
+        {
+            "id": "68",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "69",
+            "comboId": "component",
+            "label": "混合燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "70",
+            "comboId": "service",
+            "label": "纯电动电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "71",
+            "comboId": "product",
+            "label": "氢燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "72",
+            "comboId": "metarial",
+            "label": "混合燃料车联网电控",
+            "type": "技术"
+        },
+        {
+            "id": "73",
+            "comboId": "component",
+            "label": "混合燃料无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "74",
+            "comboId": "service",
+            "label": "氢燃料轻量化材料汽车",
+            "type": "技术"
+        },
+        {
+            "id": "75",
+            "comboId": "product",
+            "label": "混合燃料充电设施电机",
+            "type": "技术"
+        },
+        {
+            "id": "76",
+            "comboId": "metarial",
+            "label": "纯电动轻量化材料电池",
+            "type": "技术"
+        },
+        {
+            "id": "77",
+            "comboId": "component",
+            "label": "纯电动动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "78",
+            "comboId": "service",
+            "label": "纯电动电驱动发动机",
+            "type": "技术"
+        },
+        {
+            "id": "79",
+            "comboId": "product",
+            "label": "纯电动动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "80",
+            "comboId": "metarial",
+            "label": "混合燃料车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "81",
+            "comboId": "component",
+            "label": "氢燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "82",
+            "comboId": "service",
+            "label": "混合燃料充电设施电机",
+            "type": "技术"
+        },
+        {
+            "id": "83",
+            "comboId": "product",
+            "label": "混合燃料轻量化材料发动机",
+            "type": "技术"
+        },
+        {
+            "id": "84",
+            "comboId": "metarial",
+            "label": "纯电动智能驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "85",
+            "comboId": "component",
+            "label": "氢燃料轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "86",
+            "comboId": "service",
+            "label": "混合燃料动力电池",
+            "type": "技术"
+        },
+        {
+            "id": "87",
+            "comboId": "product",
+            "label": "纯电动电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "88",
+            "comboId": "metarial",
+            "label": "纯电动无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "89",
+            "comboId": "component",
+            "label": "纯电动电驱动电机",
+            "type": "技术"
+        },
+        {
+            "id": "90",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "91",
+            "comboId": "product",
+            "label": "氢燃料电驱动发动机",
+            "type": "技术"
+        },
+        {
+            "id": "92",
+            "comboId": "metarial",
+            "label": "氢燃料车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "93",
+            "comboId": "component",
+            "label": "氢燃料充电设施电池",
+            "type": "技术"
+        },
+        {
+            "id": "94",
+            "comboId": "service",
+            "label": "纯电动车联网电控",
+            "type": "技术"
+        },
+        {
+            "id": "95",
+            "comboId": "product",
+            "label": "混合燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "96",
+            "comboId": "metarial",
+            "label": "纯电动车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "97",
+            "comboId": "component",
+            "label": "氢燃料智能驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "98",
+            "comboId": "service",
+            "label": "混合燃料电驱动电控",
+            "type": "技术"
+        },
+        {
+            "id": "99",
+            "comboId": "product",
+            "label": "氢燃料电驱动电机",
+            "type": "技术"
+        },
+        {
+            "id": "100",
+            "comboId": "metarial",
+            "label": "氢燃料电驱动汽车",
+            "type": "技术"
+        },
+        {
+            "id": "101",
+            "comboId": "component",
+            "label": "纯电动无人驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "102",
+            "comboId": "service",
+            "label": "氢燃料电驱动电控",
+            "type": "技术"
+        },
+        {
+            "id": "103",
+            "comboId": "product",
+            "label": "混合燃料轻量化材料汽车",
+            "type": "技术"
+        },
+        {
+            "id": "104",
+            "comboId": "metarial",
+            "label": "纯电动车联网电机",
+            "type": "技术"
+        },
+        {
+            "id": "105",
+            "comboId": "component",
+            "label": "混合燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "106",
+            "comboId": "service",
+            "label": "纯电动智能驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "107",
+            "comboId": "product",
+            "label": "混合燃料充电设施汽车",
+            "type": "技术"
+        },
+        {
+            "id": "108",
+            "comboId": "metarial",
+            "label": "氢燃料轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "109",
+            "comboId": "component",
+            "label": "氢燃料充电设施电池",
+            "type": "技术"
+        },
+        {
+            "id": "110",
+            "comboId": "service",
+            "label": "纯电动电驱动发动机",
+            "type": "技术"
+        },
+        {
+            "id": "111",
+            "comboId": "product",
+            "label": "氢燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "112",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "113",
+            "comboId": "component",
+            "label": "混合燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "114",
+            "comboId": "service",
+            "label": "氢燃料智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "115",
+            "comboId": "product",
+            "label": "混合燃料电驱动发动机",
+            "type": "技术"
+        },
+        {
+            "id": "116",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "117",
+            "comboId": "component",
+            "label": "混合燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "118",
+            "comboId": "service",
+            "label": "氢燃料充电设施发动机",
+            "type": "技术"
+        },
+        {
+            "id": "119",
+            "comboId": "product",
+            "label": "纯电动轻量化材料发动机",
+            "type": "技术"
+        },
+        {
+            "id": "120",
+            "comboId": "metarial",
+            "label": "氢燃料电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "121",
+            "comboId": "component",
+            "label": "混合燃料充电设施电池",
+            "type": "技术"
+        },
+        {
+            "id": "122",
+            "comboId": "service",
+            "label": "纯电动无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "123",
+            "comboId": "product",
+            "label": "纯电动动力电控",
+            "type": "技术"
+        },
+        {
+            "id": "124",
+            "comboId": "metarial",
+            "label": "混合燃料智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "125",
+            "comboId": "component",
+            "label": "纯电动车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "126",
+            "comboId": "service",
+            "label": "纯电动轻量化材料发动机",
+            "type": "技术"
+        },
+        {
+            "id": "127",
+            "comboId": "product",
+            "label": "纯电动电驱动汽车",
+            "type": "技术"
+        },
+        {
+            "id": "128",
+            "comboId": "metarial",
+            "label": "氢燃料电驱动汽车",
+            "type": "技术"
+        },
+        {
+            "id": "129",
+            "comboId": "component",
+            "label": "混合燃料充电设施电池",
+            "type": "技术"
+        },
+        {
+            "id": "130",
+            "comboId": "service",
+            "label": "氢燃料电驱动汽车",
+            "type": "技术"
+        },
+        {
+            "id": "131",
+            "comboId": "product",
+            "label": "纯电动电驱动汽车",
+            "type": "技术"
+        },
+        {
+            "id": "132",
+            "comboId": "metarial",
+            "label": "纯电动车联网电机",
+            "type": "技术"
+        },
+        {
+            "id": "133",
+            "comboId": "component",
+            "label": "氢燃料智能驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "134",
+            "comboId": "service",
+            "label": "纯电动无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "135",
+            "comboId": "product",
+            "label": "混合燃料充电设施电机",
+            "type": "技术"
+        },
+        {
+            "id": "136",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "137",
+            "comboId": "component",
+            "label": "混合燃料车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "138",
+            "comboId": "service",
+            "label": "混合燃料智能驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "139",
+            "comboId": "product",
+            "label": "混合燃料轻量化材料电池",
+            "type": "技术"
+        },
+        {
+            "id": "140",
+            "comboId": "metarial",
+            "label": "混合燃料车联网发动机",
+            "type": "技术"
+        },
+        {
+            "id": "141",
+            "comboId": "component",
+            "label": "纯电动智能驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "142",
+            "comboId": "service",
+            "label": "混合燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "143",
+            "comboId": "product",
+            "label": "混合燃料车联网发动机",
+            "type": "技术"
+        },
+        {
+            "id": "144",
+            "comboId": "metarial",
+            "label": "纯电动充电设施汽车",
+            "type": "技术"
+        },
+        {
+            "id": "145",
+            "comboId": "component",
+            "label": "氢燃料电驱动电控",
+            "type": "技术"
+        },
+        {
+            "id": "146",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "147",
+            "comboId": "product",
+            "label": "混合燃料充电设施电控",
+            "type": "技术"
+        },
+        {
+            "id": "148",
+            "comboId": "metarial",
+            "label": "纯电动动力汽车",
+            "type": "技术"
+        },
+        {
+            "id": "149",
+            "comboId": "component",
+            "label": "混合燃料车联网电机",
+            "type": "技术"
+        },
+        {
+            "id": "150",
+            "comboId": "service",
+            "label": "纯电动电驱动电机",
+            "type": "技术"
+        },
+        {
+            "id": "151",
+            "comboId": "product",
+            "label": "混合燃料无人驾驶发动机",
+            "type": "技术"
+        },
+        {
+            "id": "152",
+            "comboId": "metarial",
+            "label": "氢燃料轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "153",
+            "comboId": "component",
+            "label": "纯电动动力电控",
+            "type": "技术"
+        },
+        {
+            "id": "154",
+            "comboId": "service",
+            "label": "氢燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "155",
+            "comboId": "product",
+            "label": "纯电动电驱动电池",
+            "type": "技术"
+        },
+        {
+            "id": "156",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "157",
+            "comboId": "component",
+            "label": "氢燃料轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "158",
+            "comboId": "service",
+            "label": "纯电动智能驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "159",
+            "comboId": "product",
+            "label": "混合燃料智能驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "160",
+            "comboId": "metarial",
+            "label": "氢燃料动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "161",
+            "comboId": "component",
+            "label": "氢燃料轻量化材料汽车",
+            "type": "技术"
+        },
+        {
+            "id": "162",
+            "comboId": "service",
+            "label": "混合燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "163",
+            "comboId": "product",
+            "label": "纯电动智能驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "164",
+            "comboId": "metarial",
+            "label": "纯电动车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "165",
+            "comboId": "component",
+            "label": "混合燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "166",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "167",
+            "comboId": "product",
+            "label": "混合燃料动力电控",
+            "type": "技术"
+        },
+        {
+            "id": "168",
+            "comboId": "metarial",
+            "label": "氢燃料动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "169",
+            "comboId": "component",
+            "label": "纯电动动力电池",
+            "type": "技术"
+        },
+        {
+            "id": "170",
+            "comboId": "service",
+            "label": "氢燃料无人驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "171",
+            "comboId": "product",
+            "label": "氢燃料电驱动电控",
+            "type": "技术"
+        },
+        {
+            "id": "172",
+            "comboId": "metarial",
+            "label": "纯电动动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "173",
+            "comboId": "component",
+            "label": "纯电动无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "174",
+            "comboId": "service",
+            "label": "氢燃料动力电机",
+            "type": "技术"
+        },
+        {
+            "id": "175",
+            "comboId": "product",
+            "label": "纯电动轻量化材料电机",
+            "type": "技术"
+        },
+        {
+            "id": "176",
+            "comboId": "metarial",
+            "label": "纯电动智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "177",
+            "comboId": "component",
+            "label": "混合燃料动力发动机",
+            "type": "技术"
+        },
+        {
+            "id": "178",
+            "comboId": "service",
+            "label": "纯电动轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "179",
+            "comboId": "product",
+            "label": "纯电动轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "180",
+            "comboId": "metarial",
+            "label": "纯电动动力电控",
+            "type": "技术"
+        },
+        {
+            "id": "181",
+            "comboId": "component",
+            "label": "混合燃料充电设施汽车",
+            "type": "技术"
+        },
+        {
+            "id": "182",
+            "comboId": "service",
+            "label": "混合燃料轻量化材料发动机",
+            "type": "技术"
+        },
+        {
+            "id": "183",
+            "comboId": "product",
+            "label": "混合燃料智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "184",
+            "comboId": "metarial",
+            "label": "氢燃料智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "185",
+            "comboId": "component",
+            "label": "混合燃料动力发动机",
+            "type": "技术"
+        },
+        {
+            "id": "186",
+            "comboId": "service",
+            "label": "纯电动动力电控",
+            "type": "技术"
+        },
+        {
+            "id": "187",
+            "comboId": "product",
+            "label": "混合燃料无人驾驶电池",
+            "type": "技术"
+        },
+        {
+            "id": "188",
+            "comboId": "metarial",
+            "label": "氢燃料无人驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "189",
+            "comboId": "component",
+            "label": "混合燃料智能驾驶电控",
+            "type": "技术"
+        },
+        {
+            "id": "190",
+            "comboId": "service",
+            "label": "氢燃料动力汽车",
+            "type": "技术"
+        },
+        {
+            "id": "191",
+            "comboId": "product",
+            "label": "氢燃料轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "192",
+            "comboId": "metarial",
+            "label": "混合燃料智能驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "193",
+            "comboId": "component",
+            "label": "氢燃料车联网汽车",
+            "type": "技术"
+        },
+        {
+            "id": "194",
+            "comboId": "service",
+            "label": "氢燃料轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "195",
+            "comboId": "product",
+            "label": "混合燃料车联网电池",
+            "type": "技术"
+        },
+        {
+            "id": "196",
+            "comboId": "metarial",
+            "label": "纯电动无人驾驶汽车",
+            "type": "技术"
+        },
+        {
+            "id": "197",
+            "comboId": "component",
+            "label": "纯电动智能驾驶电机",
+            "type": "技术"
+        },
+        {
+            "id": "198",
+            "comboId": "service",
+            "label": "纯电动车联网电控",
+            "type": "技术"
+        },
+        {
+            "id": "199",
+            "comboId": "product",
+            "label": "混合燃料轻量化材料电控",
+            "type": "技术"
+        },
+        {
+            "id": "200",
+            "comboId": "metarial",
+            "label": "混合燃料智能驾驶汽车",
+            "type": "技术"
+        }
+    ],
+    "edges": [
+        {
+            "source": "metarial",
+            "target": "component",
+            "label": "供应"
+        },
+        {
+            "source": "component",
+            "target": "product",
+            "label": "供应"
+        },
+        {
+            "source": "product",
+            "target": "service",
+            "label": "服务"
+        },
+        {
+            "source": "metarial",
+            "target": "component",
+            "label": "生产"
+        }
+    ],
+    "combos": [
+        {
+            "id": "service",
+            "label": "服务"
+        },
+        {
+            "id": "product",
+            "label": "产品"
+        },
+        {
+            "id": "component",
+            "label": "组件"
+        },
+        {
+            "id": "metarial",
+            "label": "原材料"
+        }
+    ]
+}

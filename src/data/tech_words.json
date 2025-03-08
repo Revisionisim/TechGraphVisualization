@@ -1,0 +1,774 @@
+{
+    "nodes": [
+        {
+            "id": "湿法隔膜",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "干法隔膜",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "涂覆隔膜",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "锂辉石提锂",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "锂云母提锂",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "卤水(盐湖提锂)",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "高压酸浸法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "氧气硫酸浸法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "淋滤法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "浸出-萃取法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "湿法冶炼",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "干法冶炼",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "加工制备",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "碳酸锂电解液",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "氟化锂电解液",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "制备工艺",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "微孔聚乙烯隔膜",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "非织造隔膜",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "高压聚乙烯制备",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "熔融纺丝制备",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "LFP磷酸铁锂正极",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "锂辉石提锂工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "锂云母提锂工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "卤水提锂工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "高压酸浸法工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "氧气硫酸浸法工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "淋滤法工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "浸出-萃取法工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "湿法冶炼工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "干法冶炼工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "加工制备工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "碳酸锂电解液工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "氟化锂电解液工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "六氟磷酸锂制备工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "微孔聚乙烯隔膜工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "非织造隔膜工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "高压聚乙烯制备工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "熔融纺丝制备工艺",
+            "belongsto": "原材料",
+            "category": "技术"
+        },
+        {
+            "id": "石墨烯包覆",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "高温碳化",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "磷酸铁锂正极材料",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "氧化镁",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "单晶正极材料",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "氧化铁磁性材料",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "锂离子电池分离膜",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电化学沉积法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "离子交换膜制备",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "多孔硅材料制备",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电化学法合成材料",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "纳米材料合成",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "钛酸锂正极材料",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "全固态电池",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "钛酸锂合成",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "原位生长法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电驱动方法",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "新能源发动机",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "驱动装置发动机",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "制动控制电控",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "混合燃料电控",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "混合燃料装置",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电驱动发动机",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "充电设施系统",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "燃料电池发动机",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "动力电池",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "电驱动汽车",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "混合动力",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "无人驾驶",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "混合动力工艺",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "机动车辆汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "动力电池汽车",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "光伏充电装置",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "混合燃料",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "测试方法发动机",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "智能驾驶工艺",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "充电设施电机",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电驱动电机",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "动力总成方法",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "机动车辆装置",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "燃料电池电机",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "动力总成",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "智能驾驶系统",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "纯电动工艺",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "光伏充电电池",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "无人驾驶电控",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "制动控制装置",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "燃料电池电控",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电机调控电控",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "混合动力电控",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "轻量化材料电机",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "混合燃料电池",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "氢燃料电池",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "纯电动电机",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "纯电动工艺",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "混合动力",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "氢燃料方法",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "无人驾驶发动机",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "混合动力发动机",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "动力电池电控",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "动力总成",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "快速充电方法",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "燃料电池发动机",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "纯电动工艺",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "混合燃料方法",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "测试方法工艺",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "光伏充电电控",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "机动车辆",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "车载语音汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "无人驾驶",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "电机调控",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "充电设施汽车",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "快速充电装置",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "无人驾驶工艺",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "轻量化材料电池",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "测试方法电池",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "管理系统汽车",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "新能源发动机",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "车内空气净化电池",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "车载语音方法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "机动车辆汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "驱动装置工艺",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "电机调控装置",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "氢燃料电池",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "动力电池方法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "纯电动发动机",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "混合燃料装置",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "氢燃料汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "新能源发动机工艺",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "制动控制系统",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "管理系统电控",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电机调控工艺",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "混合燃料发动机",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "电驱动装置",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "纯电动",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "混合燃料方法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "混合动力汽车",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "无人驾驶装置",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "智能驾驶汽车",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "动力电池发动机",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "制动控制系统",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "智能驾驶电机",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "车载语音",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "控制工艺",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "电机调控汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "智能驾驶方法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "管理系统",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "机动车辆方法",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "纯电动汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "动力电池电池",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "混合动力汽车",
+            "category": "技术",
+            "belongsto": "市场服务"
+        },
+        {
+            "id": "燃料电池汽车",
+            "category": "技术",
+            "belongsto": "整车"
+        },
+        {
+            "id": "控制汽车",
+            "category": "技术",
+            "belongsto": "组件"
+        },
+        {
+            "id": "快速充电方法",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "氢燃料",
+            "category": "技术",
+            "belongsto": "原材料"
+        },
+        {
+            "id": "车联网电控",
+            "category": "技术",
+            "belongsto": "市场服务"
+        }
+    ]
+}
